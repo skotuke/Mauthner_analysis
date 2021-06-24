@@ -27,3 +27,6 @@ The output excel file location will be the same as the origin of the files selec
 
 #### Sample Files
 The distance value is 1138 for Fish 1 and 1209 for Fish 2.
+
+#### Contact
+Feel free to get in touch with me skotuke@gmail.com with any questions or problems.
