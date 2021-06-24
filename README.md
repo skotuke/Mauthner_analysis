@@ -1,5 +1,3 @@
-[TOC]
-
 #### Expected Input
 The script is used to analyse an antidromic action potential in a Mauthner cell resulting from field stimulation in the posterior zebrafish spinal cord. The script is made for .abf files, 10 sweeps each, 5s per sweep, 100kHz filter frequency. The filter and number of sweeps can be adjusted.
 
